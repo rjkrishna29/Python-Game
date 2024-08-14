@@ -1,7 +1,3 @@
-Here's a `README.md` file for both Rock-Paper-Scissors code implementations:
-
----
-
 # Rock-Paper-Scissors Game
 
 ## Description
